@@ -12,3 +12,4 @@ Simple Code written by SQL Language
   
 ### 1.1 Calculating Running Total
 
+![image](https://user-images.githubusercontent.com/113614347/224504510-2b2b14c8-7ea2-4050-bdb1-3993ce99d82c.png)
