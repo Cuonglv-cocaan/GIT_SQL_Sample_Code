@@ -1,4 +1,4 @@
-# GIT_SQL_Sample_Code
+# SQL Code for Data Analyst
 Simple Code written by SQL Language
 
 *Content:
